@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0Ht7qg8t8Q8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lakks\\OneDrive\\Desktop\\GIT FORMAT\\WEEK2\\WEEK2_NUnit and Moq\\1_NUnit-Handson_Hands-on in this document\\CODE\\CalcLibrary\\CalcLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lakks\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\lakks\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
