@@ -1,0 +1,22 @@
+C:\Users\lakks\OneDrive\Desktop\CTS ASSIGNMENT\CustomerCommLib\bin\Debug\net8.0\CustomerCommLib.deps.json
+C:\Users\lakks\OneDrive\Desktop\CTS ASSIGNMENT\CustomerCommLib\bin\Debug\net8.0\CustomerCommLib.dll
+C:\Users\lakks\OneDrive\Desktop\CTS ASSIGNMENT\CustomerCommLib\bin\Debug\net8.0\CustomerCommLib.pdb
+C:\Users\lakks\OneDrive\Desktop\CTS ASSIGNMENT\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lakks\OneDrive\Desktop\CTS ASSIGNMENT\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.AssemblyInfoInputs.cache
+C:\Users\lakks\OneDrive\Desktop\CTS ASSIGNMENT\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.AssemblyInfo.cs
+C:\Users\lakks\OneDrive\Desktop\CTS ASSIGNMENT\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.csproj.CoreCompileInputs.cache
+C:\Users\lakks\OneDrive\Desktop\CTS ASSIGNMENT\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.dll
+C:\Users\lakks\OneDrive\Desktop\CTS ASSIGNMENT\CustomerCommLib\obj\Debug\net8.0\refint\CustomerCommLib.dll
+C:\Users\lakks\OneDrive\Desktop\CTS ASSIGNMENT\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.pdb
+C:\Users\lakks\OneDrive\Desktop\CTS ASSIGNMENT\CustomerCommLib\obj\Debug\net8.0\ref\CustomerCommLib.dll
+C:\Users\lakks\OneDrive\Desktop\GIT FORMAT\WEEK2\WEEK2_NUnit and Moq\2_1. Write Testable Code with Moq\CODE\CustomerCommLib\bin\Debug\net8.0\CustomerCommLib.deps.json
+C:\Users\lakks\OneDrive\Desktop\GIT FORMAT\WEEK2\WEEK2_NUnit and Moq\2_1. Write Testable Code with Moq\CODE\CustomerCommLib\bin\Debug\net8.0\CustomerCommLib.dll
+C:\Users\lakks\OneDrive\Desktop\GIT FORMAT\WEEK2\WEEK2_NUnit and Moq\2_1. Write Testable Code with Moq\CODE\CustomerCommLib\bin\Debug\net8.0\CustomerCommLib.pdb
+C:\Users\lakks\OneDrive\Desktop\GIT FORMAT\WEEK2\WEEK2_NUnit and Moq\2_1. Write Testable Code with Moq\CODE\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lakks\OneDrive\Desktop\GIT FORMAT\WEEK2\WEEK2_NUnit and Moq\2_1. Write Testable Code with Moq\CODE\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.AssemblyInfoInputs.cache
+C:\Users\lakks\OneDrive\Desktop\GIT FORMAT\WEEK2\WEEK2_NUnit and Moq\2_1. Write Testable Code with Moq\CODE\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.AssemblyInfo.cs
+C:\Users\lakks\OneDrive\Desktop\GIT FORMAT\WEEK2\WEEK2_NUnit and Moq\2_1. Write Testable Code with Moq\CODE\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.csproj.CoreCompileInputs.cache
+C:\Users\lakks\OneDrive\Desktop\GIT FORMAT\WEEK2\WEEK2_NUnit and Moq\2_1. Write Testable Code with Moq\CODE\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.dll
+C:\Users\lakks\OneDrive\Desktop\GIT FORMAT\WEEK2\WEEK2_NUnit and Moq\2_1. Write Testable Code with Moq\CODE\CustomerCommLib\obj\Debug\net8.0\refint\CustomerCommLib.dll
+C:\Users\lakks\OneDrive\Desktop\GIT FORMAT\WEEK2\WEEK2_NUnit and Moq\2_1. Write Testable Code with Moq\CODE\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.pdb
+C:\Users\lakks\OneDrive\Desktop\GIT FORMAT\WEEK2\WEEK2_NUnit and Moq\2_1. Write Testable Code with Moq\CODE\CustomerCommLib\obj\Debug\net8.0\ref\CustomerCommLib.dll
